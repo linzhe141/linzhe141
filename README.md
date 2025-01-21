@@ -19,3 +19,4 @@
 🐱‍🏍 Commits on GitHub
 
 [![Commits to Vue core](https://img.shields.io/github/commit-activity/t/vuejs/core?authorFilter=linzhe141&style=social&label=Vue%20-%20core)](https://github.com/vuejs/core/commits?author=linzhe141)  
+[![Commits to Vue docs](https://img.shields.io/github/commit-activity/t/vuejs/core?authorFilter=linzhe141&style=social&label=Vue%20-%20core)](https://github.com/vuejs/docs/commits?author=linzhe141)  
